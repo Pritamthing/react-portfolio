@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Pritam Thing",
+    "occupation": "Django Developer and Software Developer ",
+    "description": "Full Stack Django Developer by Day, Software Developer by Night",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Pritam, I'm a Full Stack Django Developer. Currently I'm working at Shangrila Microsystem Pvt.Ltd  ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "pritamthing90@gmail.com",
+    "phone": "+977 982 621 3827",
+    "address": {
+      "street": "Khulekhani-Kathmandu Road",
+      "city": "Hetauda",
+      "state": "BAgmati Pradesh",
+      "zip": "14100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pritam.lama.90226",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pritam-thing-73672014b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pritamthing/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/pritamthing",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jawaharlal Neharu Technological University-India ",
+        "degree": "B.Tech(Computer Science & Engineering)",
+        "graduated": "April 2019 ",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Shangrila Microsystem Pvt.Ltd",
+        "title": "Team Member && Asst. Software Engineer",
+        "years": "Sep 2019 - Present",
+        "description": "Developing Enterprise Application with Django."
+      },
+      {
+        "company": "Gameon Studio",
+        "title": "Programmer",
+        "years": "june 2018 - Aug 2018",
+        "description": "Building Games, android game."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+     
+      {
+        "title": "Serenity-A Boon of God",
+        "category": "A 2D android game",
+        "image": "Logo-min.png",
+        "url": "https://youtu.be/Nm4flAzifdg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We are very happy to have your product for our business .",
+        "user": "Ramji Joshi"
+      }
+    
+    ]
+  }
+}
